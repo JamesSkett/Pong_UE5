@@ -38,8 +38,10 @@
 /NOIMPLIB
 "C:\Users\James\Documents\Projects\Unreal\No-Way-Out-2.0\Pong\Intermediate\Build\Win64\x64\PongEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
 "C:\Users\James\Documents\Projects\Unreal\No-Way-Out-2.0\Pong\Intermediate\Build\Win64\x64\UnrealEditor\Development\Pong\Ball.gen.cpp.obj"
+"C:\Users\James\Documents\Projects\Unreal\No-Way-Out-2.0\Pong\Intermediate\Build\Win64\x64\UnrealEditor\Development\Pong\Paddle.gen.cpp.obj"
 "C:\Users\James\Documents\Projects\Unreal\No-Way-Out-2.0\Pong\Intermediate\Build\Win64\x64\UnrealEditor\Development\Pong\Pong.init.gen.cpp.obj"
 "C:\Users\James\Documents\Projects\Unreal\No-Way-Out-2.0\Pong\Intermediate\Build\Win64\x64\UnrealEditor\Development\Pong\Ball.cpp.obj"
+"C:\Users\James\Documents\Projects\Unreal\No-Way-Out-2.0\Pong\Intermediate\Build\Win64\x64\UnrealEditor\Development\Pong\Paddle.cpp.obj"
 "C:\Users\James\Documents\Projects\Unreal\No-Way-Out-2.0\Pong\Intermediate\Build\Win64\x64\UnrealEditor\Development\Pong\Pong.cpp.obj"
 "C:\Users\James\Documents\Projects\Unreal\No-Way-Out-2.0\Pong\Intermediate\Build\Win64\x64\UnrealEditor\Development\Pong\PerModuleInline.gen.cpp.obj"
 "C:\Users\James\Documents\Projects\Unreal\No-Way-Out-2.0\Pong\Intermediate\Build\Win64\x64\UnrealEditor\Development\Pong\Default.rc2.res"

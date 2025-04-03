@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\James\\Documents\\Projects\\Unreal\\No-Way-Out-2.0\\Pong\\Source\\Pong\\Pong.Build.cs",
-		"C:\\Users\\James\\Documents\\Projects\\Unreal\\No-Way-Out-2.0\\Pong\\Source\\Pong.Target.cs",
-		"C:\\Users\\James\\Documents\\Projects\\Unreal\\No-Way-Out-2.0\\Pong\\Source\\PongEditor.Target.cs"
+		"C:\\Users\\James\\Documents\\Projects\\Unreal\\Pong\\Pong\\Source\\Pong\\Pong.Build.cs",
+		"C:\\Users\\James\\Documents\\Projects\\Unreal\\Pong\\Pong\\Source\\Pong.Target.cs",
+		"C:\\Users\\James\\Documents\\Projects\\Unreal\\Pong\\Pong\\Source\\PongEditor.Target.cs"
 	],
 	"EngineVersion": "5.5.4"
 }

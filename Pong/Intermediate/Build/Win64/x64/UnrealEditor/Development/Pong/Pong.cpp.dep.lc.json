@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\james\\documents\\projects\\unreal\\no-way-out-2.0\\pong\\source\\pong\\pong.cpp",
+        "Source": "c:\\users\\james\\documents\\projects\\unreal\\pong\\pong\\source\\pong\\pong.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\james\\documents\\projects\\unreal\\no-way-out-2.0\\pong\\intermediate\\build\\win64\\x64\\pongeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "c:\\users\\james\\documents\\projects\\unreal\\pong\\pong\\intermediate\\build\\win64\\x64\\pongeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\james\\documents\\projects\\unreal\\no-way-out-2.0\\pong\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pong\\definitions.pong.h",
-            "c:\\users\\james\\documents\\projects\\unreal\\no-way-out-2.0\\pong\\source\\pong\\pong.h"
+            "c:\\users\\james\\documents\\projects\\unreal\\pong\\pong\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pong\\definitions.pong.h",
+            "c:\\users\\james\\documents\\projects\\unreal\\pong\\pong\\source\\pong\\pong.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

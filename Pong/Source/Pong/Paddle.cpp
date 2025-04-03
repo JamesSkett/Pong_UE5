@@ -78,7 +78,7 @@ void APaddle::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 void APaddle::Move_XAxis(float AxisValue)
 {
     // Move at 100 units per second forward or backward
-    CurrentVelocity.X = FMath::Clamp(AxisValue, -1.0f, 1.0f) * 100.0f;
+    CurrentVelocity.X = FMath::Clamp(AxisValue, -100.0f, 100.0f) * 100.0f;
 }
 
 void APaddle::Move_YAxis(float AxisValue)

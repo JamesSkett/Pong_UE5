@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PongModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8595a845fae881bf641014ddf23c27c4445d90d4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0347d6d2ec89c2b44789f951f88de120f5ae1fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("PongModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PongModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,12 +1,12 @@
-"C:\Users\James\Documents\Projects\Unreal\No-Way-Out-2.0\Pong\Intermediate\Build\Win64\UnrealEditor\Inc\Pong\UHT\Paddle.gen.cpp"
-/FI"C:\Users\James\Documents\Projects\Unreal\No-Way-Out-2.0\Pong\Intermediate\Build\Win64\x64\PongEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.h"
-/FI"C:\Users\James\Documents\Projects\Unreal\No-Way-Out-2.0\Pong\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Pong\Definitions.Pong.h"
-/Yu"C:\Users\James\Documents\Projects\Unreal\No-Way-Out-2.0\Pong\Intermediate\Build\Win64\x64\PongEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.h"
-/Fp"C:\Users\James\Documents\Projects\Unreal\No-Way-Out-2.0\Pong\Intermediate\Build\Win64\x64\PongEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.h.pch"
-/Fo"C:\Users\James\Documents\Projects\Unreal\No-Way-Out-2.0\Pong\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Pong\Paddle.gen.cpp.obj"
-/experimental:log "C:\Users\James\Documents\Projects\Unreal\No-Way-Out-2.0\Pong\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Pong\Paddle.gen.cpp.sarif"
-/sourceDependencies "C:\Users\James\Documents\Projects\Unreal\No-Way-Out-2.0\Pong\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Pong\Paddle.gen.cpp.dep.json"
-@"C:\Users\James\Documents\Projects\Unreal\No-Way-Out-2.0\Pong\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Pong\Pong.Shared.rsp"
+"C:\Users\James\Documents\Projects\Unreal\Pong\Pong\Intermediate\Build\Win64\UnrealEditor\Inc\Pong\UHT\Paddle.gen.cpp"
+/FI"C:\Users\James\Documents\Projects\Unreal\Pong\Pong\Intermediate\Build\Win64\x64\PongEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.h"
+/FI"C:\Users\James\Documents\Projects\Unreal\Pong\Pong\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Pong\Definitions.Pong.h"
+/Yu"C:\Users\James\Documents\Projects\Unreal\Pong\Pong\Intermediate\Build\Win64\x64\PongEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.h"
+/Fp"C:\Users\James\Documents\Projects\Unreal\Pong\Pong\Intermediate\Build\Win64\x64\PongEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.h.pch"
+/Fo"C:\Users\James\Documents\Projects\Unreal\Pong\Pong\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Pong\Paddle.gen.cpp.obj"
+/experimental:log "C:\Users\James\Documents\Projects\Unreal\Pong\Pong\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Pong\Paddle.gen.cpp.sarif"
+/sourceDependencies "C:\Users\James\Documents\Projects\Unreal\Pong\Pong\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Pong\Paddle.gen.cpp.dep.json"
+@"C:\Users\James\Documents\Projects\Unreal\Pong\Pong\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Pong\Pong.Shared.rsp"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo
